@@ -56,7 +56,7 @@ The system supports:
 | Bootstrap | Responsive Design |
 | JavaScript | Client-side Interaction |
 | PHPMailer | Email & OTP Services |
-| XAMPP | Local Development Server |
+| Wamp | Local Development Server |
 
 ---
 
